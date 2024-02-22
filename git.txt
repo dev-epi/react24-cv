@@ -1,0 +1,12 @@
+// seulement la premiére fois
+
+git init 
+git remote add origin ( lien du repo)
+
+git checkout -b main
+
+// Apres chaque mise a jour
+
+git add .
+git commit -m "votre message"
+git push -u origin main
