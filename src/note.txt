@@ -1,0 +1,12 @@
+1. tous les balises doivents etres fermés( ERRORS)
+<br> -> <br />
+<input> <input />
+<img>  </img>
+<hr> </hr>
+
+---- WARNINGS ----
+
+2. remplacer class= par className=
+3. remplacer for= par htmlFor=
+
+4. balise img doit avoit la propriété alt avec valeur 
